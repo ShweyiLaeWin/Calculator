@@ -4,7 +4,6 @@ loop do
     n1 = gets.chomp().to_f
 
     puts "Choose an operator:"
-    operator = gets.chomp()
 
     puts "Enter second number:"
     n2 = gets.chomp().to_f
