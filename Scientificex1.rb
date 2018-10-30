@@ -1,6 +1,6 @@
-puts "Enter A"
+puts "Enter First number"
 a=gets
-puts "Enter B"
+puts "Enter Second number"
 b=gets
 
 c=Integer(a)+ Integer(b)
